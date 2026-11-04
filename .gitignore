@@ -1,0 +1,12 @@
+data/raw/
+*.tar
+*.zip
+*.json
+
+data/new_orleans/reviews_new_orleans.rds
+
+.Rhistory
+.RData
+.Rproj.user/
+*_files/
+.quarto/
