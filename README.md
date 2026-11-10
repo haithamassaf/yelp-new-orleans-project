@@ -1,5 +1,7 @@
 # Yelp New Orleans Restaurant Analysis
 
+[Geographic area analysis (Steps 4-6)](geography_analysis.md)
+
 ## Data
 
 The raw Yelp files are not included in this repository because of their size.
