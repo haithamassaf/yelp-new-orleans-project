@@ -79,5 +79,7 @@ The French Quarter has the most restaurants and reviews, but it ranks near the b
 
 ## Sources
 
-- Census TIGER/Line 2024 places and tracts, 2020 ZCTAs, via `tigris`
-- Neighborhood Statistical Areas and Wards: City of New Orleans GIS (maps.nola.gov)
+- [Yelp Open Dataset](https://business.yelp.com/data/resources/open-dataset/): business and review JSON files
+- [Census TIGER/Line](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html): 2024 places and tracts, 2020 ZCTAs, downloaded with [`tigris`](https://walker-data.com/tigris/)
+- [Neighborhood Statistical Areas](https://maps.nola.gov/server/rest/services/Reference/Reference_Layers/MapServer/0): City of New Orleans GIS
+- [Wards](https://maps.nola.gov/server/rest/services/Administrative/Administrative_Layers/MapServer/3): City of New Orleans GIS
