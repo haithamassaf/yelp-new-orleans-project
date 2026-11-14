@@ -91,7 +91,7 @@ Packages: `tidyverse`, `jsonlite`, `lubridate`, `sf`, `tigris`, `scales`, `virid
 Data sources:
 
 - [Yelp Open Dataset](https://business.yelp.com/data/resources/open-dataset/): `yelp_academic_dataset_business.json` and `yelp_academic_dataset_review.json`
-- [Census TIGER/Line](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) via [`tigris`](https://walker-data.com/tigris/): 2024 places and tracts, 2020 ZCTAs
+- [Census TIGER/Line](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) via [`tigris`](https://cran.r-project.org/package=tigris): 2024 places and tracts, 2020 ZCTAs
 - City of New Orleans GIS: [Neighborhood Statistical Areas](https://maps.nola.gov/server/rest/services/Reference/Reference_Layers/MapServer/0) and [Wards](https://maps.nola.gov/server/rest/services/Administrative/Administrative_Layers/MapServer/3)
 
 ## Large-data management
