@@ -51,6 +51,7 @@ Using the Yelp Open Dataset, I studied 565 seafood and Cajun/Creole restaurants 
 | `data/new_orleans/` | Filtered RDS files |
 | `figures/` | Maps and charts |
 | `output/` | Saved analysis results |
+| [renv.lock](renv.lock) | Exact R and package versions used |
 
 ## Data
 
