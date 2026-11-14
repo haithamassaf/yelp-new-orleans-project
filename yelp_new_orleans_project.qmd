@@ -460,4 +460,4 @@ The adjustment matters most for **Seventh Ward** (2nd → 5th) and **Uptown** (5
 
 ## AI prompts used
 
-I used Claude Code to help run check the R code. I wrote the code, chose the theme and the geography, and decided what went into the final repository. 
+I used Claude Code to help run and check the R code. I wrote the code, chose the theme and the geography, and decided what went into the final repository. 
