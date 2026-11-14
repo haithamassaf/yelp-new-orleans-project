@@ -96,7 +96,7 @@ Data sources:
 
 ## Large-data management
 
-The Yelp download was far bigger than anything we used in class:
+I downloaded the JSON version of the dataset (4.35 GB) from the Yelp Open Dataset page after accepting Yelp's terms. I skipped the separate 7.45 GB photo download because the project does not use photos. The download was far bigger than anything we used in class:
 
 | Item | Size |
 |---|---:|
@@ -456,7 +456,7 @@ The adjustment matters most for **Seventh Ward** (2nd → 5th) and **Uptown** (5
 - **Categories are self-reported tags.** Jaidyn's Wing Stop and Mr John's Steakhouse are tagged Seafood or Cajun/Creole but are not primarily seafood restaurants.
 - **The baseline is limited to this category.** A reviewer's "usual rating" is only from their seafood and Cajun/Creole reviews. Only 4.5% of reviewers have 5 or more such reviews, so the adjusted score rests on 21.5% of reviews.
 - **Small neighborhoods are left out.** 44 of the 54 neighborhoods with restaurants have fewer than 10 and are not ranked.
-- **Reviewers are not random.** French Quarter reviewers are mostly tourists, while Uptown reviewers may be more local, which can affect both raw and adjusted scores.
+- **Reviewers are not random.** French Quarter reviewers are likely mostly tourists, while Uptown reviewers may be more local, which can affect both raw and adjusted scores.
 
 ## AI prompts used
 
