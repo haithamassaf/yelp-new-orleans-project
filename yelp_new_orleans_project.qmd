@@ -493,4 +493,4 @@ I wrote the code for this project and made the decisions regarding the research 
 
 - **Final code and repository check**
   - **Prompt:** "I finished writing the code and analysis for my project. Can you review the project as a final check for coding errors, inconsistencies between my code and written explanations, or anything that might prevent the analysis from reproducing correctly?"
-  - **Reprompt:** "Don't redesign the project or change my analytical decisions. I want a final technical review of the code and results I produced." troubleshooting, and help explain and interpret the results.
+  - **Reprompt:** "Don't redesign the project or change my analytical decisions. I want a final technical review of the code and results I produced."
